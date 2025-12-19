@@ -37,8 +37,8 @@ Weight Estimation: Approximated using bounding box area (width * height * scalin
 iou_thresh → IoU threshold (default: 0.5)
 
 Sample video Link :- https://drive.google.com/file/d/1bb5AbrVPpmc3a0Siv13ud_k9ir0Xr_mi/view?usp=sharing
-Colab Link :- https://colab.research.google.com/drive/1vSVsWDl3fyQQ4PZE_-KvlhZxLRoHBqVj?usp=sharing
-Annotted video Link :- https://drive.google.com/file/d/1AtGPj9gBz-2zQJXnkFxcKF9bozG0NrHn/view?usp=sharing
+
+Annotted video Link :- https://drive.google.com/file/d/1AtGPj9gBz-2zQJXnkFxcKF9bozG0NrHn/view?usp=sharing AND https://drive.google.com/file/d/1ACYhqhH1qYB9yV9QCuU4pPGgE-YfOK3a/view?usp=sharing
 
 BirdCountWeightProject/
 │
