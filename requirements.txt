@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+fastapi
+uvicorn
+ultralytics
+opencv-python
+opencv-python-headless
+python-multipart
